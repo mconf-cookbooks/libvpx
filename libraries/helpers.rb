@@ -10,7 +10,7 @@ module Libvpx
   # helpers module
   module Helpers
     def libvpx_packages
-      ['libvpx-dev', 'libvpx0']
+      ['libvpx-dev']
     end
   end
 end
